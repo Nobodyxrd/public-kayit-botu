@@ -41,6 +41,15 @@ bunlar sadece birkac resim daha bircok detaylı komut var her neyse 5 starda siz
 ![image](https://github.com/Nobody0110/public-kayit-botu/assets/131596762/ca52554b-74b2-46fb-be77-8509955a8957)
 ![image](https://github.com/Nobody0110/public-kayit-botu/assets/131596762/647fa06a-935c-4d6d-b76a-351fde76a693)
 
+#kayıtsız etiketleme sistemi
+![image](https://github.com/Nobody0110/public-kayit-botu/assets/131596762/6b34f51e-f666-4cd9-a9be-377096c430b5)
+
+#Tag sistemi 
+![image](https://github.com/Nobody0110/public-kayit-botu/assets/131596762/8a4c1108-6cb8-4e41-a8b9-8608a1f4ddc7)
+![image](https://github.com/Nobody0110/public-kayit-botu/assets/131596762/5c6725d0-99b3-42aa-9c0d-307ecdcde606)
+![image](https://github.com/Nobody0110/public-kayit-botu/assets/131596762/05fb3e73-3390-405a-943c-f385ea643bce)
+
+
 
 # Perm Sistemi 
 ![image](https://github.com/Nobody0110/public-kayit-botu/assets/131596762/a0f793e3-457b-4ba6-b67f-2b1049ed3395)
