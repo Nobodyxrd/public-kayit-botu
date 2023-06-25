@@ -1,6 +1,9 @@
 # ne zaman paylaşılcak ?
 5 star da sizlerle ⭐
 
+# Bilgilendirme
+bunlar sadece birkac resim daha bircok detaylı komut var her neyse 5 starda sizlere bu alt yapıyı paylaşacağım seviliyorsunuz kendinize iyi bakın star atmayıda unutmayın Cano beni mutlu edersiniz :)
+
 # Hoşgeldin mesajı 
 ![image](https://github.com/Nobody0110/public-kayit-botu/assets/131596762/dff1770a-e155-426c-8764-9942e985fe43)
 
