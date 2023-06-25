@@ -1,7 +1,7 @@
 # ne zaman paylaşılcak ?
 5 star da sizlerle ⭐
 
-#👋 Hoşgeldin mesajı 
+# Hoşgeldin mesajı 
 ![image](https://github.com/Nobody0110/public-kayit-botu/assets/131596762/dff1770a-e155-426c-8764-9942e985fe43)
 
 # Kurulum Sistemi 
