@@ -1,6 +1,8 @@
-# ne zaman paylaşılcak ?
+# Nasıl kuracağım ?
 
-5 star da sizlerle ⭐
+öncelikle ```config.json'u``` doldur ve sonradan ```npm i``` yaparak modülleri indir sonradan ```start.bat``` basıp botu başlatın. 
+işinize yaradıysa bir start atarsınız artık. :D ❤️
+
 
 # Bilgilendirme
 bunlar sadece birkac resim daha bircok detaylı komut var her neyse 5 starda sizlere bu alt yapıyı paylaşacağım seviliyorsunuz kendinize iyi bakın star atmayıda unutmayın Cano beni mutlu edersiniz :)
