@@ -1,7 +1,7 @@
 # Nasıl kuracağım ?
 
 öncelikle ```config.json'u``` doldur ve sonradan ```npm i``` yaparak modülleri indir sonradan ```start.bat``` basıp botu başlatın. 
-işinize yaradıysa bir start atarsınız artık. :D ❤️
+işinize yaradıysa bir start atarsınız artık. :) ❤️
 
 
 # Bilgilendirme
