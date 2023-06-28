@@ -1,0 +1,52 @@
+{
+    "bot": { 
+        "token": "BOT TOKENIN BURAYA KANKA",
+        "prefix":".",
+        "footer": "Nobody was Here ❤️",
+        "botdurum": "Nobody ❤️ Developmend",
+        "BotDeveloper": "1081535698093482056",
+        "sunucuid": "1120469962709024840"
+    },
+
+    "staffroles": {
+        "OwnerRoles": "OWNER ROLÜ BURAYA",
+        "botcommanRole": "BOT COMMAND ROLÜ BURAYA",
+        "KayitYetkiliRole": "KAYIT YETKILI BURAYA"
+
+
+    },
+
+    "roles": {
+        "tasarımcıRole": "TASARIMCI ROLÜ",
+        "streamerRole": "YAYINCI STREAMER ROLÜ",
+        "müzisyenRole": "MÜZISYEN ROLÜ",
+        "vipRole": "VIP ROLÜ"
+
+
+    },
+
+    
+    "register": {
+        "kayitsiz": "KAYITSIZ ROLÜ", 
+        "ekrekRolü":"ERKEK ROLÜ",
+        "KadinRolü":"KADIN ROLÜ",
+        "JoinName": "isim | yaş",
+        "ŞüpheliName": "Şüpheli hesap",
+        "symbol": "|",
+        "tagsymbol": "ISIM YASIN BASINA EKLENECEK O SEMBOL YANI TAGINIZ",
+        "EtiketTag": "ETIKET TAGINIZI EGER YOKSA BOS BIRAKIN VARSADA # EKLEMEYIN",
+        "isimTag": "",
+        "şüpheliRolü": "SÜPHELI HESAP ROLÜ",
+        "TaglıRolü": "TAGLI YANI AILE ROLÜ",
+        "minimumyaş": 13,
+        "TaglıAlım": false 
+    },
+    
+        "kanallar": {
+            "KayitKanali": "KAYIT KANALI HOSGELDIN MESAJINI ATICAGI KANAL IDSI",
+            "SohbetKanali": "SOHBET KANALI IDSI",
+            "rules": "KURALLAR KANALI IDSI"
+    }
+    
+    
+    }
