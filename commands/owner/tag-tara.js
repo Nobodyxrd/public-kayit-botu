@@ -19,7 +19,7 @@ module.exports = {
         let tag2 = config.register.EtiketTag
         let taglılar = message.guild.members.cache.filter(s => s.user.discriminator === tag2 || s.user.username.includes(tag) && !s.roles.cache.has(rol)).forEach(m => m.roles.add(rol))
     message.reply({ embeds: [embed.setDescription(`
-${emoji.nbdy_onay} Kullanıcı adında  \`${config.register.isimTag ? config.register.isimTag[0] : "bulunmuyor"}\` veya etiketinde  \`${config.register.EtiketTag ? config.register.EtiketTag[0] : "bulunmuyor"}\` bulunduran üyelere taglı rolü verildi.
+${emoji.nbdy_onay} Kullanıcı adında  \`${config.register.isimTag ? config.register.isimTag[0] : "bulunmuyor"}\` veya etiketinde \`${config.register.EtiketTag ? `#${config.register.EtiketTag}` :"bulunmuyor"}\` bulunduran üyelere taglı rolü verildi.
 `)] }).then(message.react(emoji.nbdy_onay)).then((e) => setTimeout(() => { e.delete(); }, 10000)); 
 
     }
